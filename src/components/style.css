@@ -1,0 +1,56 @@
+#buttonAddNew{
+    background-color: #e7f316;
+    font-weight: bold;
+    min-height: 40px;
+    font-size: larger;
+    border-radius: 40pd;
+    
+}
+
+#buttonAddNew:hover{
+    background-color: #ecf0af;
+}
+#inputs{
+    margin-left: 1rem;
+    background-color: #f0f3f0;
+   
+}
+#buttonAdd{
+    float: left;
+    height: 40px;
+    background-color: #09fc1d;
+    font-weight: bold;
+   
+}
+#buttonAdd:hover{
+    background-color: #7be784;
+}
+tbody tr:hover{
+background-color:rgb(182, 228, 228);
+}
+
+
+#buttonCancel{
+    float: right;
+    height: 40px;
+    background-color: #fc0909;
+    font-weight: bold;
+   
+}
+#buttonCancel:hover{
+    background-color: #ed6767;
+}
+#th2rem{
+    width: 2rem;
+}
+#th8rem{
+    width: 20rem;
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+#fondo{
+    background-color: rgb(223, 236, 237);
+    height: 100vh;
+}
